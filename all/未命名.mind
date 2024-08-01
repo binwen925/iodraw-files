@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d34ejfwz4600","created":1722497884199,"text":"DatasourceBuilder"},"children":[{"data":{"id":"d34ejryjiso0","created":1722497910415,"text":"Map<DataSourceProperty,String>"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d34ejfwz4600","created":1722497884199,"text":"DatasourceBuilder"},"children":[{"data":{"id":"d34ejryjiso0","created":1722497910415,"text":"Map<DataSourceProperty,String> values"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
