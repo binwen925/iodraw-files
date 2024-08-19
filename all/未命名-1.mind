@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d3jqbb3rwps0","created":1724054499482,"text":"spring-orm"},"children":[{"data":{"id":"d3jqbgyzm3k0","created":1724054512253,"text":"AbstractEntityManagerFactory"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d3jqbb3rwps0","created":1724054499482,"text":"spring-orm"},"children":[{"data":{"id":"d3jqbgyzm3k0","created":1724054512253,"text":"AbstractEntityManagerFactoryBean"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
