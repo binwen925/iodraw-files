@@ -1,1 +1,1 @@
-{"root":{"data":{"id":"d62qe2dzo200","created":1733296671658,"text":"Wrapper"},"children":[{"data":{"id":"d62qed5lulc0","created":1733296695096,"text":"ISqlSegment","note":"# SQL片段RUKK"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
+{"root":{"data":{"id":"d62qe2dzo200","created":1733296671658,"text":"Wrapper"},"children":[{"data":{"id":"d62qed5lulc0","created":1733296695096,"text":"ISqlSegment","note":"### SQL片段接口"},"children":[]}]},"template":"default","theme":"fresh-blue","version":"1.4.43"}
